@@ -55,10 +55,8 @@ A curated list of open datasets and resources for points of interest (POIs) in B
 ## History & Memorials
 
 - 🏚️ [Lost Places Berlin](https://github.com/tifa365/lost-places-berlin) - Collection of 97 abandoned locations in Berlin including military sites, industrial ruins, hospitals, and DDR relics with coordinates in JSON format.
-- 🕯️ [Stolpersteine Berlin](https://www.stolpersteine-berlin.de/de/stolpersteine-finden) - Database of stumbling stones commemorating victims of Nazi persecution with biographical info, addresses, and [JSON](https://www.stolpersteine-berlin.de/de/api/json/stolpersteine.json?display=page_1) with GPS coordinates.
-- 🪦 [Liste der Stolpersteine in Berlin](https://daten.berlin.de/datensaetze/liste-der-stolpersteine-berlin) - Official dataset of Stolpersteine locations in Berlin.
-- 📜 [Liste der Gedenktafeln in Berlin](https://daten.berlin.de/datensaetze/liste-der-gedenktafeln-in-berlin) - Memorial plaques across Berlin.
-- 🏷️ [Gedenktafeln – Datenbank Berlin-Mitte](https://daten.berlin.de/datensaetze/gedenktafel-datenbank-berlin-mitte) - Memorial plaque database for Berlin-Mitte district.
+- 🕯️ [Stolpersteine Berlin](https://www.stolpersteine-berlin.de/de/stolpersteine-finden) - Database of stumbling stones commemorating victims of Nazi persecution with biographical info, addresses, and [JSON](https://www.stolpersteine-berlin.de/de/api/json/stolpersteine.json?display=page_1) with GPS coordinates. See also [Liste der Stolpersteine in Berlin](https://daten.berlin.de/datensaetze/liste-der-stolpersteine-berlin).
+- 📜 [Liste der Gedenktafeln in Berlin](https://daten.berlin.de/datensaetze/liste-der-gedenktafeln-in-berlin) - Memorial plaques across Berlin. See also [Gedenktafeln – Datenbank Berlin-Mitte](https://daten.berlin.de/datensaetze/gedenktafel-datenbank-berlin-mitte).
 - 🕯️ [Begräbnisorte der Opfer von Krieg und Gewaltherrschaft (WFS)](https://daten.berlin.de/datensaetze/begrabnisorte-der-opfer-von-krieg-und-gewaltherrschaft-wfs-7e4222be) - Burial sites of victims of war and tyranny.
 - 🏛️ [Denkmalliste des Landes Berlin](https://daten.berlin.de/datensaetze/denkmalliste-des-landes-berlin) - Official heritage list of Berlin.
 - 🌍 [Schutzgebiete im INSPIRE-Datenmodell – Welterbestätten](https://daten.berlin.de/datensaetze/schutzgebiete-im-inspire-datenmodell-welterbestatten-6c94e1a5) - UNESCO World Heritage sites in Berlin.
