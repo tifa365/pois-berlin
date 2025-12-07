@@ -93,6 +93,8 @@ A curated list of open datasets and resources for points of interest (POIs) in B
 - 🎫 [Parkscheinautomaten – Standorte](https://daten.berlin.de/datensaetze/parkscheinautomaten-psa-standorte-oeffentlich-anzeigen-1118550) - Parking ticket machine locations.
 - ♿ [Behindertenparkplätze (WFS)](https://daten.berlin.de/datensaetze/behindertenparkplatze-wfs-933a4232) - Accessible parking spaces for people with disabilities.
 
+➡️ See also [awesome-berlin-transit](https://github.com/tifa365/awesome-berlin-transit) for more public transport datasets.
+
 ## See Also
 
 ## Contributing
@@ -113,4 +115,4 @@ To add a new entry:
 
 To the extent possible under law, the contributors to this list have waived all copyright and related or neighboring rights to this work.
 
-Last updated: 2025-12-06
+Last updated: 2025-12-07
