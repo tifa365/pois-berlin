@@ -97,8 +97,6 @@ A curated list of open datasets and resources for points of interest (POIs) in B
 
 ## See Also
 
-- 🚇 [awesome-transit](https://github.com/MobilityData/awesome-transit) - Community-curated list of transit APIs, apps, datasets, and other resources.
-
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
