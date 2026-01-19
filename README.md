@@ -86,6 +86,7 @@ A curated list of open datasets and resources for points of interest (POIs) and 
 
 ## Transport & Mobility
 
+- 🌉 [Berliner Brücken](https://github.com/tifa365/berliner-bruecken) - Data on 175 dilapidated bridges requiring replacement and 73 damaged bridges with geo-coordinates based on Berlin's Masterplan Brücken 2025-2040.
 - 🛴 [Abstellflächen für Mikromobilitätsangebote (WFS)](https://daten.berlin.de/datensaetze/abstellflachen-fur-mikromobilitatsangebote-wfs-6185b5fb) - Parking areas for micromobility vehicles (e-scooters, etc.).
 - ⚡ [Elektro-Ladesäulen und Ladepunkte (WFS)](https://daten.berlin.de/datensaetze/elektro-ladesaulen-und-ladepunkte-wfs-f306dd51) - Electric vehicle charging stations and points.
 - 🔌 [Öffentlich zugängliche Ladeinfrastruktur für E-Fahrzeuge (WFS)](https://daten.berlin.de/datensaetze/offentlich-zugangliche-ladeinfrastruktur-fur-e-fahrzeuge-wfs-077e2e20) - Publicly accessible EV charging infrastructure.
